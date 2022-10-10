@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuP</string>
+    <string name="item1">Español</string>
+    <string name="item2">Ingles</string>
+    <string name="item3">Portugues</string>
+
+</resources>
